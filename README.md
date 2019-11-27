@@ -4,6 +4,15 @@ This blender add-on will allow you to export out your animation markers in
 blender as a json file.
 
 
+## Install
+-> Download zip from github
+-> Open blender -> Preferences -> Add-ons
+-> Hit the install button and select the zip file
+-> Search for "yano-am-export" and enable it.
+
+Now go to: File -> Export -> Animation Marker Export and you'll see the
+option to export your animation markers as json.
+
 
 ## Build / Contribting
 - The easiest way is to add the Blender extension in visual studio.
